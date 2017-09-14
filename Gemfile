@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'haml-rails'
+gem 'mysql2','>= 0.3.13', '< 0.5'
 
 
 
